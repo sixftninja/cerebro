@@ -1,0 +1,41 @@
+# Directories
+reference_code/
+.gitignore/
+node_modules/
+dist/
+build/
+.next/
+logs/
+__pycache__/
+.pytest_cache/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# System files
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.vs/
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/ 

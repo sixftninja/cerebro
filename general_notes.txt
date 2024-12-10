@@ -1,0 +1,7 @@
+wideworldimporters-standard.bacpac
+
+blob sas token: "sp=r&st=2024-12-08T16:39:59Z&se=2024-12-09T00:39:59Z&spr=https&sv=2022-11-02&sr=b&sig=OKonsJ84BRUYbtHzDkbZO5XayIbZn00viyR3Jp6m8i0%3D"
+
+blob sas url: "https://cerebrowwistorage.blob.core.windows.net/cerebrowwibak/WideWorldImporters-Standard.bacpac?sp=r&st=2024-12-08T16:39:59Z&se=2024-12-09T00:39:59Z&spr=https&sv=2022-11-02&sr=b&sig=OKonsJ84BRUYbtHzDkbZO5XayIbZn00viyR3Jp6m8i0%3D"
+
+
